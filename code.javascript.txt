@@ -1,0 +1,31 @@
+   document.addEventListener('DOMContentLoaded', function() {
+       const sections = document.querySelectorAll('.fade-section');
+       const observerOptions = {
+           threshold: 0.1, // Trigger when 10% of the section is visible
+           rootMargin: '0px 0px -50px 0px' // Adjust for smoother triggering
+       };
+   
+       const observer = new IntersectionObserver((entries) => {
+           entries.forEach(entry => {
+               if (entry.isIntersecting) {
+                   entry.target.classList.add('visible');
+                   entry.target.classList.remove('fade-out');
+               } else {
+                   // Fade out when scrolling past
+                   entry.target.classList.remove('visible');
+                   entry.target.classList.add('fade-out');
+               }
+           });
+       }, observerOptions);
+   
+       sections.forEach(section => {
+           observer.observe(section);
+       });
+   
+       // Optional: Alert on contact click (from original)
+       const contactSection = document.getElementById('contact');
+       contactSection.addEventListener('click', function() {
+           alert('Connect with me on Discord: warriorog.exe_');
+       });
+   });
+   

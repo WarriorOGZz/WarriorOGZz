@@ -1,6 +1,6 @@
 # 👋 Hi, I'm WarriorOGZz
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building impactful software and collaborating with the community. Explore my repositories to see what I'm working on.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** committed to building impactful software and collaborating with the community. Explore my repositories to see what I'm working on.
 
 ---
 
@@ -12,25 +12,38 @@ I'm driven by curiosity and a love for clean code. Whether it's building scalabl
 - 🌱 Committed to continuous learning and growth
 - 💡 Problem solver with a passion for elegant solutions
 - 🤝 Open to collaboration and feedback
+- ⚡ Building full-stack applications with JavaScript, Node.js, Python, and React
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript/TypeScript, Python, Java, and more  
-**Frameworks & Tools:** React, Node.js, Docker, Git  
-**Databases:** PostgreSQL, MongoDB  
-**Other:** REST APIs, Microservices, CI/CD
+**Languages:** 
+- JavaScript / TypeScript
+- Python
+- Node.js
+
+**Frontend:**
+- React
+- HTML / CSS
+
+**Backend:**
+- Node.js
+- Python
+
+**Tools & Platforms:**
+- Git & GitHub
+- Docker
+- REST APIs
+- Microservices
+
+**Databases:** PostgreSQL, MongoDB
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some of my recent and notable projects:
-
-- **[Project Name](link)** - Brief description of what it does and why it matters
-- **[Project Name](link)** - Another interesting project
-- **[Project Name](link)** - One more highlight
+I'm actively developing projects and will showcase them here soon! Check back for updates as I add my latest work.
 
 ---
 
@@ -44,26 +57,35 @@ Here are some of my recent and notable projects:
 
 ## 🌐 Connect With Me
 
+Let's connect! You can find me on various platforms:
+
 - **GitHub:** [@WarriorOGZz](https://github.com/WarriorOGZz)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@YourHandle](https://twitter.com/yourhandle)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
+- **Portfolio:** [warriorog.in](https://warriorog.in)
+- **Twitter/X:** [@warriorogzz](https://twitter.com/warriorogzz)
+- **Twitch:** [warriorogzz](https://twitch.tv/warriorogzz)
+- **Discord:** 0kxs
 
 ---
 
-## 📝 Latest Blog Posts
+## ✨ Philosophy
 
-<!-- BLOG-POST-LIST:START -->
-- Coming soon!
-<!-- BLOG-POST-LIST:END -->
+> *Star Bright The Lightest In There Last Moment's... So Why You Can't Before Star Does?*
 
----
-
-## ⚡ Fun Fact
-
-*Add something unique about yourself here!*
+A reminder to shine bright and make an impact before the moment passes. 🌟
 
 ---
 
-**Thanks for visiting! Feel free to explore my repositories, open an issue, or reach out for collaboration. 🙌**
+## 🎯 Currently Working On
+
+- Expanding my portfolio with full-stack projects
+- Deepening my expertise in React and Node.js
+- Contributing to open source
+- Building meaningful applications
+
+---
+
+**Thanks for visiting! Feel free to explore my repositories, open an issue, or reach out for collaboration. Let's build something amazing together! 🚀**
+
+---
+
+*Last updated: June 11, 2026*

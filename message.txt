@@ -1,0 +1,256 @@
+<div align="center">
+
+# `>_ WARRIOROGZZ`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=8B0000&center=true&vCenter=true&width=800&lines=FULL-STACK+DEVELOPER;CODE+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT;BUILDING+COOL+SHIT+SINCE+DAY+ONE;TURNING+IDEAS+INTO+REALITY;WELCOME+TO+MY+CORNER+OF+THE+INTERNET." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=WarriorOGZz&style=for-the-badge&color=8B0000&label=VISITORS" />
+
+<br><br>
+
+<a href="https://github.com/WarriorOGZz">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://warriorog.in">
+<img src="https://img.shields.io/badge/PORTFOLIO-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://twitter.com/warriorogzz">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   █████   ██████   ██████   ████████   ████████   ███████      ║
+║  ░░███   ░░██████ ██████   ░░███░░███ ░░███░░███ ███░░░███     ║
+║   ░███    ░███░█████░███    ░███ ░███  ░███ ░███░███ ░███     ║
+║   ░███    ░███░░███ ░███    ░███ ░███  ░███ ░███░███ ░███     ║
+║   ░███    ░███ ░░░  ░███    ░███ ░███  ░███ ░███░░███████     ║
+║   ░███    ░███      ░███    ░███ ░███  ░███ ░███ ░░░░░███     ║
+║   █████   █████     █████   █████████  ████████  ███████      ║
+║  ░░░░░   ░░░░░     ░░░░░  ░░░░░░░░░  ░░░░░░░░  ░░░░░░░       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### `SYSTEM STATUS`
+
+`● ONLINE`    `● CODING`    `● SHIPPING`
+
+</div>
+
+---
+
+## `~/about`
+
+```bash
+$ whoami
+
+WarriorOGZz
+
+$ cat personality.txt
+
+> curious
+> obsessive about cool projects
+> problem solver
+> coffee-powered developer
+> probably debugging something right now
+
+$ echo $MISSION
+
+Build things worth using.
+```
+
+I'm a **Full-Stack Developer** who likes turning random ideas into actual software.
+
+I work across the stack — interfaces, APIs, databases, automation, deployment, and everything in between.
+
+**If it can be built, I'll probably try to build it.**
+
+---
+
+<div align="center">
+
+## `TECH STACK.exe`
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,html,css,postgres,mongodb,docker,git,github&perline=6" />
+
+</div>
+
+---
+
+## `~/projects`
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  PROJECTS                                                        │
+│                                                                  │
+│  [01] ████████████████████████████████████████  FULL-STACK       │
+│       Modern applications • APIs • Databases                     │
+│                                                                  │
+│  [02] ██████████████████████████████████████████ AUTOMATION      │
+│       Bots • Tools • Scripts • Developer utilities               │
+│                                                                  │
+│  [03] ███████████████████████████████████████   EXPERIMENTS      │
+│       Weird ideas • New tech • "what if I..."                    │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://github.com/WarriorOGZz?tab=repositories">
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20THE%20LAB-8B0000?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+## `~/current_process`
+
+```text
+[████████████████████████████████████████] 100%
+
+INITIALIZING...
+    ↓
+IDEA
+    ↓
+PROTOTYPE
+    ↓
+BREAK EVERYTHING
+    ↓
+DEBUG AT 3AM
+    ↓
+FIX IT
+    ↓
+SHIP IT
+    ↓
+REPEAT
+```
+
+```js
+while (alive) {
+    build();
+    learn();
+    breakThings();
+    fixThings();
+    ship();
+}
+```
+
+---
+
+<div align="center">
+
+## `GITHUB_ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=WarriorOGZz&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarriorOGZz&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=8B0000&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WarriorOGZz&theme=dark&hide_border=true&background=00000000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" />
+
+</div>
+
+---
+
+## `~/terminal`
+
+```console
+┌──[warrior@github]─[~/projects]
+└─$ git status
+
+On branch main
+
+Changes not staged for commit:
+    modified:   future-projects
+    modified:   random-ideas
+    modified:   sleep-schedule
+
+nothing to commit...
+
+┌──[warrior@github]─[~/projects]
+└─$ git add .
+
+┌──[warrior@github]─[~/projects]
+└─$ git commit -m "probably shouldn't work"
+
+[main] probably shouldn't work
+
+┌──[warrior@github]─[~/projects]
+└─$ git push
+
+🚀 deployed successfully
+```
+
+---
+
+<div align="center">
+
+## `CONNECT`
+
+<a href="https://github.com/WarriorOGZz">
+<img src="https://img.shields.io/badge/GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://warriorog.in">
+<img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/warriorogzz">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://twitch.tv/warriorogzz">
+<img src="https://img.shields.io/badge/TWITCH-8B0000?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+
+<br><br>
+
+`Discord → 0kxs`
+
+</div>
+
+---
+
+<div align="center">
+
+## `THE PHILOSOPHY`
+
+### *"Star Bright The Lightest In There Last Moment's..."*
+
+**Why wait for the perfect moment?**
+
+**Build now. Learn now. Create now.**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer" />
+
+### `> CONNECTION TERMINATED`
+
+`Thanks for visiting. See you in the code.`
+
+<br>
+
+`© 2026 WarriorOGZz`
+
+</div>

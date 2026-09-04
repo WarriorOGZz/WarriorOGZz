@@ -1,5 +1,10 @@
 # 👋 Hi, I'm WarriorOGZz
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-240.2M-8B0000?style=flat-square&logo=github)
+
+</div>
+
+
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** committed to building impactful software and collaborating with the community. Explore my repositories to see what I'm working on.
 
 ---

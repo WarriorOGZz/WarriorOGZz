@@ -12,7 +12,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Developer focused on purposeful software, minimal architecture, and considered UI.
+> Founder Of @OpenOcean And A Developer focused on purposeful software, minimal architecture, and considered UI.
 
 I build full-stack web experiences, developer tools, and Discord-focused projects. My work moves between React and TypeScript interfaces, Node.js services, automation, and Linux-based infrastructure. I care about software that feels polished on the surface and stays understandable underneath.
 
